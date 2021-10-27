@@ -1,0 +1,9 @@
+[{"id": 1, "name": "Travel"},
+    {"id": 2, "name": "Rule Class"},
+    {"id": 3, "name": "Travel Policy"},
+    {"id": 4, "name": "Policy Violations Reason"},
+    {"id": 5, "name": "Travel Rule"},
+    {"id": 6, "name": "Travel Vendor Exclusion"},
+    {"id": 7, "name": "Travel Discount"},
+    {"id": 8, "name": "Contracts"}
+]
